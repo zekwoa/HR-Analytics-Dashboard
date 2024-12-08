@@ -1,7 +1,7 @@
 # HR-Analytics-Dashboard
 
 Portfilio Dashboard:  
-![HR Analytics Dashboard](Dashboard.jpeg)
+![HR Analytics Dashboard](Dashboard.png)
 
 
 ## Project Description  
